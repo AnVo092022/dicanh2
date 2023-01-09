@@ -12,7 +12,7 @@ TagManager:
   - Water
   - UI
   - Ground
-  - 
+  - Ladder
   - 
   - 
   - 
@@ -49,6 +49,9 @@ TagManager:
     locked: 0
   - name: Platforms
     uniqueID: 3220360055
+    locked: 0
+  - name: Ladder
+    uniqueID: 2226731975
     locked: 0
   - name: Player
     uniqueID: 595531857
